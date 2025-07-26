@@ -1,6 +1,6 @@
 # Hi there, I'm Jerin Thomas! 👋
 
-I'm a passionate Software Engineer with over 4 years of experience in developing cloud-based and machine learning-driven applications. I love building things that make people's lives easier, and I'm constantly looking to learn new technologies and improve my skills.
+I'm a passionate Software Engineer with over 5 years of experience in developing cloud-based and machine learning-driven applications. I love building things that make people's lives easier, and I'm constantly looking to learn new technologies and improve my skills.
 
 ## 🚀 About Me
 - 🔭 Currently working as a Software Development Engineer 2 at **SellerApp**, where I lead the development of advertising automation systems.
