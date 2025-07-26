@@ -29,7 +29,6 @@ I'm a passionate Software Engineer with over 5 years of experience in developing
 - 💬 I'm always interested in tech discussions, learning opportunities, and collaborations. Feel free to connect with me!
   - [LinkedIn](https://linkedin.com/in/jerinthomas1404)
   - [GitHub](https://github.com/jerinthomas1404)
-  - [ X ](https://x.com/mendax_scribere)
 
 
 
