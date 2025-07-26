@@ -3,7 +3,7 @@
 I'm a passionate Software Engineer with over 4 years of experience in developing cloud-based and machine learning-driven applications. I love building things that make people's lives easier, and I'm constantly looking to learn new technologies and improve my skills.
 
 ## 🚀 About Me
-- 🔭 Currently working as a Software Development Engineer at **SellerApp**, where I lead the development of advertising automation systems.
+- 🔭 Currently working as a Software Development Engineer 2 at **SellerApp**, where I lead the development of advertising automation systems.
 - 🌱 Formerly worked at **Tata Consultancy Services**, optimizing infrastructure workflows and leading core projects.
 - 💡 I enjoy solving complex challenges, developing scalable solutions, and mentoring junior developers.
 - 📖 In my free time, I love exploring poetry, philosophy, and getting lost in a good book. I also enjoy the thrill of **Formula 1 racing**! 🏎️
