@@ -10,7 +10,7 @@ I'm a passionate Software Engineer with over 4 years of experience in developing
 - 🌐 Active volunteer with **Docker Bangalore Group** and **Google Developer Group, Bangalore**.
 
 ## 💻 Technical Skills
-- **Languages**: Go (Preferred), Python, Java, Bash, C, Groovy
+- **Languages**: Go (Preferred), Python, Bash, C, Groovy
 - **Cloud Services**: Google Cloud Platform (GCP), Azure
 - **Tools & Frameworks**: Docker, Kubernetes, MySQL, Cassandra, RabbitMQ, Jenkins, Ansible, Terraform, TensorFlow, NLTK, OpenCV
 
