@@ -13,7 +13,7 @@ Currently, I am pursuing my **Master’s in Computer Science at the University o
 - 🌐 Active volunteer with **Docker Bangalore Group** and **Google Developer Group, Bangalore**.
 
 ## 💻 Technical Skills
-- **Languages**: Go (Preferred), Python, Bash, C, Groovy
+- **Languages**: Go, Python, C, C++, Java, Bash
 - **Cloud Services**: Google Cloud Platform (GCP), Azure
 - **Tools & Frameworks**: Docker, Kubernetes, MySQL, Cassandra, RabbitMQ, Jenkins, Ansible, Terraform, TensorFlow, NLTK, OpenCV
 
