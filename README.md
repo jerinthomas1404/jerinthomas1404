@@ -15,7 +15,7 @@ Currently, I am pursuing my **Master’s in Computer Science at the University o
 ## 💻 Technical Skills
 - **Languages**: Go, Python, C, C++, Java, Bash
 - **Cloud Services**: Google Cloud Platform (GCP), Azure
-- **Tools & Frameworks**: Docker, Kubernetes, MySQL, Cassandra, RabbitMQ, Jenkins, Ansible, Terraform, TensorFlow, NLTK, OpenCV
+- **Tools & Frameworks**: Docker, Kubernetes, MySQL, Cassandra, RabbitMQ, Jenkins, Ansible, Terraform, PyTorch, NLTK, OpenCV
 
 ## 📈 Stats & Projects
 - Led the development of an AI-driven **digital marketplace for farmers** during my academic journey, providing personalized recommendations and real-time market predictions.
