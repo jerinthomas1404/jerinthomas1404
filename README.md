@@ -13,16 +13,17 @@ Currently, I am pursuing my **Master’s in Computer Science at the University o
 - 🌐 Active volunteer with **Docker Bangalore Group** and **Google Developer Group, Bangalore**.
 
 ## 💻 Technical Skills
-- **Languages**: Go, Python, C, C++, Java, Bash
-- **Cloud Services**: Google Cloud Platform (GCP), Azure
+- **Languages**: Go, Python, C++, 
+- **Cloud Services**: Google Cloud Platform (GCP), Amazon Web Services (AWS), Azure
 - **Tools & Frameworks**: Docker, Kubernetes, MySQL, Cassandra, RabbitMQ, Jenkins, Ansible, Terraform, PyTorch, NLTK, OpenCV
 
 ## 📈 Stats & Projects
-- Led the development of an AI-driven **digital marketplace for farmers** during my academic journey, providing personalized recommendations and real-time market predictions.
-- Worked on **automated cloud provisioning** at Tata Consultancy Services, significantly reducing average turnaround time and serving over 100 clients.
 - Designed and developed an advanced system at SellerApp for **automated advertising budget generation**, improving system efficiency and decreasing execution times.
+- Worked on **automated cloud provisioning** at Tata Consultancy Services, significantly reducing average turnaround time and serving over 100 clients.
+- Led the development of an AI-driven **digital marketplace for farmers** during my academic journey, providing personalized recommendations and real-time market predictions.
 
 ## 🏆 Achievements
+- Technical Mentor at HackUMass XIII
 - 🥇 Secured **2nd place at CodeUtsava 4.0** (Smart India Hackathon)
 - 🥉 Placed **3rd at HackSRM**, SRM University, Andhra Pradesh
 - 🏅 Received the **Best Design Award at BITCAMP 2019**
@@ -34,7 +35,6 @@ Currently, I am pursuing my **Master’s in Computer Science at the University o
   - [GitHub](https://github.com/jerinthomas1404)
 
 ## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[ ] building the Andrej's Karapathy micrograd in go
 
 If you found my work interesting, consider **starring** some of my repositories or reaching out for a collaboration opportunity! 😊
